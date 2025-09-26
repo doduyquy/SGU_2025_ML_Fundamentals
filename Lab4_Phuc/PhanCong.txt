@@ -1,0 +1,5 @@
+Toàn nhóm: đọc paper và khảo sát bài toan
+1. Tri: xác định tính chất và tổng quan 
+2. Phát: phân tích đơn biến + đa biến
+3. Phúc: xác định ngoại lệ, giá trị thiếu và mẫu bất thường
+4. Quý: tổng hợp và thử các mô hình

@@ -1,4 +1,4 @@
-#!/home/nii/Documents/SGU_2025-ML-Fundamentals/venv_sgu_ml_2025/bin/python3
+#!/home/nii/Documents/SGU_2025_ML-Fundamentals/venv_sgu_ml_2025/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
